@@ -170,39 +170,11 @@ Voyara follows a clean and modular architecture.
 | **Legacy Modules** | Java | Stability & integration |
 
 
-## Round-2 Enhancements (Completed)
-
-In Round-2, Voyara evolved into an **AI-assisted itinerary builder**.
-
-### Implemented Features
-- Vega AI assistant integration  
-- Context-aware suggestion engine  
-- Explainable AI responses  
-- Rule-based safety constraints  
-- Stateless & scalable AI architecture  
-
-
-## Future Scope
-
-- AI-generated draft itineraries (user-approved)  
-- Interactive maps & distance-based planning  
-- Preference-based personalization  
-- Group itinerary collaboration  
-- Smart travel alerts & reminders  
-
-
-## Documentation & Compliance
-
-- Complete documentation is included in this repository  
-- DFDs, Flowcharts & Wireframes are provided  
-- AI is strictly assistive and non-autonomous  
-- All user actions require explicit confirmation  
-
-Voyara fully complies with hackathon guidelines.
-
-
 <div align="center">
 
-*Crafted with innovation and a passion for travel by Team Voyara*
+*TEAM MEMBERS -
+**- SWATI** 
+**- PRAKHAR**
+**- LOVISH***
 
 </div>
