@@ -110,7 +110,7 @@ Voyara prioritizes **local activities and experiences** instead of generic touri
 **Impact:** Users explore cities like locals, not checklist tourists.
 
 
-###  3. Vega – Context-Aware AI Assistant (Round-2 Feature)
+###  3. Vega – Context-Aware AI Assistant
 
 Vega is Voyara’s intelligent **assistive AI** that helps users plan better without taking control away.
 
@@ -172,7 +172,7 @@ Voyara follows a clean and modular architecture.
 
 <div align="center">
 
-*TEAM MEMBERS -
+*TEAM MEMBERS 
 **- SWATI** 
 **- PRAKHAR**
 **- LOVISH***
