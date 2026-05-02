@@ -49,15 +49,9 @@ Voyara enables users to:
 
 <div>
 
-##  Live Demo, Mobile App & Resources
+##  Live Demo && Resources
 
 ###  **[Click Here to Launch Voyara Web Live](https://voyara.onrender.com)**
-
-### 🎥 Demo Video  
-**[Demo Video – Voyara Walkthrough](./assets/Voyara_video.mp4)**
-
-###  **[Click Here to View Mobile App Repository](https://github.com/NitishChoubey/Voyara-Mobile-App-Platform)**
-*Native mobile app built using **Kotlin Multiplatform (KMP)**.*
 
 ###  Technical Documentation
 Detailed system documentation is organized inside the repository:
