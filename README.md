@@ -73,6 +73,7 @@ cp .env.example .env
 # Start the frontend dev server (hot-reload)
 npm run dev
 # → Opens at http://localhost:8080
+##  Live Demo && Resources
 
 # In a separate terminal, start the backend API server
 npm run server
@@ -88,6 +89,16 @@ npm start        # Serve frontend + API from a single Express server
 ```
 
 ### Environment Variables
+###  Technical Documentation
+Detailed system documentation is organized inside the repository:
+- **[Docs Folder](./docs/)**
+  - **[Flowchart Explanation](./docs/FLOWCHART.md)**
+  - **[Wireframes & DFDs](./docs/WIREFRAME_AND_DFD.md)**
+- **[Assets Folder](./assets/)**
+  - Flowcharts
+  - Data Flow Diagrams (DFDs)
+  - Database Schema
+  - UI Wireframes
 
 See [`.env.example`](./.env.example) for all required variables:
 
@@ -188,7 +199,7 @@ Voyara prioritizes **local activities and experiences** instead of generic touri
 **Impact:** Users explore cities like locals, not checklist tourists.
 
 
-###  3. Vega — Context-Aware AI Assistant
+###  3. Vega – Context-Aware AI Assistant
 
 Vega is Voyara's intelligent **assistive AI** that helps users plan better without taking control away.
 
@@ -265,6 +276,9 @@ Detailed **DFDs, Flowcharts, and Wireframes** are available inside [`/docs`](./d
 
 <div align="center">
 
-*Crafted with innovation and a passion for travel by Team Voyara*
+*TEAM MEMBERS 
+**- SWATI** 
+**- PRAKHAR**
+**- LOVISH***
 
 </div>
